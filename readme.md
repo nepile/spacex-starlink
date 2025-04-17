@@ -81,7 +81,3 @@ WordPress is the official continuation of b2/cafèlog, which came from Michel V.
 ## License
 
 WordPress is free software, and is released under the terms of the **GPL** (GNU General Public License) version 2 or (at your option) any later version. See [license.txt](license.txt).
-
----
-
-Kalau kamu mau hasil ini dalam file `.md`, tinggal bilang aja ya!

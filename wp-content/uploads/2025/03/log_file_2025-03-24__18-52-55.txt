@@ -1,0 +1,39 @@
+
+---Downloaded files---
+The import files for: Moving Company were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\kariez-core//demo-content/demo/content.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\kariez-core//demo-content/demo/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\kariez-core//demo-content/demo/export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Kariez: Search - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Service Sidebar : 
+
+Navigation Menu - Transport Solutions - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Sidebar : 
+
+Kariez: About - No Title - Widget already exists
+Navigation Menu - Company Links - Widget already exists
+Navigation Menu - Company Service - Widget already exists
+Kariez: Contact - Say Hello! - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,54 @@
+<svg width="1920" height="860" viewBox="0 0 1920 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="860" fill="#FFCC00"/>
+<mask id="mask0_718_789" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1920" height="860">
+<rect width="1920" height="860" fill="#FFCC00"/>
+</mask>
+<g mask="url(#mask0_718_789)">
+<mask id="mask1_718_789" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-117" y="-66" width="1680" height="960">
+<path d="M1563 -66H-117V894H1563V-66Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_718_789)">
+<path d="M1690.32 1019.86H-244.324V-191.84H1690.32V1019.86ZM-241.822 1017.34H1687.82V-189.337H-241.822V1017.34Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 835.966H-243.073V838.468H1689.07V835.966Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 775.506H-243.073V778.009H1689.07V775.506Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 715.047H-243.073V717.55H1689.07V715.047Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 654.588H-243.073V657.091H1689.07V654.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 594.129H-243.073V596.632H1689.07V594.129Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 533.67H-243.073V536.172H1689.07V533.67Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 473.211H-243.073V475.714H1689.07V473.211Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 412.751H-243.073V415.254H1689.07V412.751Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 352.293H-243.073V354.795H1689.07V352.293Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 291.834H-243.073V294.336H1689.07V291.834Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 231.375H-243.073V233.877H1689.07V231.375Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 170.916H-243.073V173.418H1689.07V170.916Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 110.456H-243.073V112.959H1689.07V110.456Z" fill="white" fill-opacity="0.13"/>
+<path d="M1689.07 49.9973H-243.073V52.4997H1689.07V49.9973Z" fill="white" fill-opacity="0.13"/>
+<path d="M1514.68 -190.588H1512.18V1018.59H1514.68V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1456.13 -190.588H1453.62V1018.59H1456.13V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1397.57 -190.588H1395.07V1018.59H1397.57V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1339.02 -190.588H1336.52V1018.59H1339.02V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1280.47 -190.588H1277.97V1018.59H1280.47V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1221.92 -190.588H1219.42V1018.59H1221.92V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1163.37 -190.588H1160.87V1018.59H1163.37V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1104.83 -190.588H1102.32V1018.59H1104.83V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M1046.28 -190.588H1043.77V1018.59H1046.28V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M987.726 -190.588H985.224V1018.59H987.726V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M929.178 -190.588H926.675V1018.59H929.178V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M870.628 -190.588H868.126V1018.59H870.628V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M812.079 -190.588H809.576V1018.59H812.079V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M753.529 -190.588H751.027V1018.59H753.529V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M694.974 -190.588H692.472V1018.59H694.974V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M636.425 -190.588H633.922V1018.59H636.425V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M577.875 -190.588H575.373V1018.59H577.875V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M519.326 -190.588H516.824V1018.59H519.326V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M460.777 -190.588H458.274V1018.59H460.777V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M402.227 -190.588H399.725V1018.59H402.227V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M343.678 -190.588H341.176V1018.59H343.678V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M285.129 -190.588H282.626V1018.59H285.129V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M226.58 -190.588H224.077V1018.59H226.58V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M168.03 -190.588H165.528V1018.59H168.03V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M109.481 -190.588H106.979V1018.59H109.481V-190.588Z" fill="white" fill-opacity="0.13"/>
+<path d="M50.9316 -190.588H48.4292V1018.59H50.9316V-190.588Z" fill="white" fill-opacity="0.13"/>
+</g>
+</g>
+</svg>

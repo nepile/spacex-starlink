@@ -1,0 +1,11 @@
+
+---Downloaded files---
+The import files for: Moving Company were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\kariez-core//demo-content/demo/content.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\kariez-core//demo-content/demo/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\kariez-core//demo-content/demo/export.dat
+Redux files:
+not defined!

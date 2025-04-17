@@ -1,0 +1,90 @@
+
+@font-face {
+	font-family: 'rt-fontello';
+	src: url('../fonts/fontello-icon/rt-fontello.eot?48093402');
+	src: url('../fonts/fontello-icon/rt-fontello.eot?48093402#iefix') format('embedded-opentype'),
+	url('../fonts/fontello-icon/rt-fontello.woff2?48093402') format('woff2'),
+	url('../fonts/fontello-icon/rt-fontello.woff?48093402') format('woff'),
+	url('../fonts/fontello-icon/rt-fontello.ttf?48093402') format('truetype'),
+	url('../fonts/fontello-icon/rt-fontello.svg?48093402#rt-fontello') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'rt-fontello';
+    src: url('../font/rt-fontello.svg?48093402#rt-fontello') format('svg');
+  }
+}
+*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+	font-family: "rt-fontello";
+	font-style: normal;
+	font-weight: normal;
+	speak: never;
+	display: inline-block;
+	text-decoration: inherit;
+	width: 1em;
+	text-align: center;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-plus:before { content: '\e800'; } /* '' */
+.icon-map-pin:before { content: '\e801'; } /* '' */
+.icon-phone:before { content: '\e802'; } /* '' */
+.icon-pinterest:before { content: '\e803'; } /* '' */
+.icon-play:before { content: '\e804'; } /* '' */
+.icon-plus-1:before { content: '\e805'; } /* '' */
+.icon-pricing:before { content: '\e806'; } /* '' */
+.icon-quote:before { content: '\e807'; } /* '' */
+.icon-quote-big:before { content: '\e808'; } /* '' */
+.icon-railway:before { content: '\e809'; } /* '' */
+.icon-request-a-quote:before { content: '\e80a'; } /* '' */
+.icon-security:before { content: '\e80b'; } /* '' */
+.icon-send:before { content: '\e80c'; } /* '' */
+.icon-ship:before { content: '\e80d'; } /* '' */
+.icon-storage:before { content: '\e80e'; } /* '' */
+.icon-support:before { content: '\e80f'; } /* '' */
+.icon-track:before { content: '\e810'; } /* '' */
+.icon-tracking:before { content: '\e811'; } /* '' */
+.icon-truck:before { content: '\e812'; } /* '' */
+.icon-twitter:before { content: '\e813'; } /* '' */
+.icon-user:before { content: '\e814'; } /* '' */
+.icon-air:before { content: '\e815'; } /* '' */
+.icon-arrow-left:before { content: '\e816'; } /* '' */
+.icon-arrow-right:before { content: '\e817'; } /* '' */
+.icon-calendar:before { content: '\e818'; } /* '' */
+.icon-check:before { content: '\e819'; } /* '' */
+.icon-clock:before { content: '\e81a'; } /* '' */
+.icon-minus:before { content: '\e81b'; } /* '' */
+.icon-comment:before { content: '\e81c'; } /* '' */
+.icon-delivery:before { content: '\e81d'; } /* '' */
+.icon-down-arrow:before { content: '\e81e'; } /* '' */
+.icon-facebook:before { content: '\e81f'; } /* '' */
+.icon-instagram:before { content: '\e820'; } /* '' */
+.icon-linkdin:before { content: '\e821'; } /* '' */
+.icon-logo-shape:before { content: '\e822'; } /* '' */
+.icon-mail:before { content: '\e823'; } /* '' */
+.icon-minus-1:before { content: '\e825'; } /* '' */
+.icon-star:before { content: '\e82b'; } /* '' */
+.icon-eye:before { content: '\e82d'; } /* '' */
+.icon-tag:before { content: '\e82e'; } /* '' */
+.icon-tiktok:before { content: '\e82f'; } /* '' */
+.icon-youtube:before { content: '\e830'; } /* '' */
+.icon-back-top:before { content: '\e831'; } /* '' */
+.icon-home:before { content: '\e832'; } /* '' */
+.icon-skype:before { content: '\e833'; } /* '' */
+.icon-arrow-right-circle:before { content: '\e834'; } /* '' */
+.icon-search:before { content: '\e835'; } /* '' */
+.icon-whatsapp:before { content: '\e836'; } /* '' */
+.icon-vimeo:before { content: '\e837'; } /* '' */
+.icon-twitter-sm:before { content: '\e838'; } /* '' */
+.icon-round-check:before { content: '\e839'; } /* '' */
+

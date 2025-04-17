@@ -1,7 +1,3 @@
-Berikut adalah versi Markdown dari isi dokumen HTML WordPress ReadMe:
-
----
-
 # WordPress › ReadMe
 
 ![WordPress](wp-admin/images/wordpress-logo.png)
